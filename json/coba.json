@@ -1,0 +1,33 @@
+[
+		{
+			"nama" : "Yolantika Nur",
+			"umur" : 24,
+			"nrp"  : "0372362362",
+			"lulus" : true,
+			"hobi" : [
+				"coding",
+				"gaming"
+			],
+			"pembimbing" : {
+				"pembimbing1" : "Jennie Kim",
+				"pembimbing2" : "Irene"
+
+			}
+		},
+
+			{
+			"nama" : "Yolantika Nur",
+			"umur" : 24,
+			"nrp"  : "0372362362",
+			"lulus" : true,
+			"hobi" : [
+				"coding",
+				"gaming"
+			],
+			"pembimbing" : {
+				"pembimbing1" : "Jennie Kim",
+				"pembimbing2" : "Irene"
+
+			}
+		}
+]

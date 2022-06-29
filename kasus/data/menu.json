@@ -1,0 +1,64 @@
+[
+    {
+        "kategori" : "Special",
+        "tersedia" : true,
+        "varian" : [
+            "spacy",
+            "original"
+        ],
+        "paket" : {
+            "paket1" : "SNACK BUCKET 1 BBQ",
+            "paket2" : "SNACK BUCKET 2 BBQ",
+            "paket3" : "CHICKEN STRIPS BBQ",
+            "paket4" : "WINGER BBQ",
+            "paket5" : "9 PCS BUCKET",
+            "paket6" : "SUPER FAMILY HCC",
+            "paket7" : "SWINGS BUCKET",
+            "paket8" : "WINGER COMBO BBQ"
+
+        }
+    },
+
+    {
+        "kategori" : "Combo",
+        "tersedia" : true,
+        "varian" : [
+            "spacy",
+            "original"
+        ],
+        "paket" : {
+            "paket1" : "FISH FILLET COMBO",
+            "paket2" : "CRISPY BOX",
+            "paket3" : "COLONEL YAKINIKU COMBO",
+            "paket4" : "KOMBO KRISPY",
+            "paket5" : "ZUPER BOX",
+            "paket6" : "SUPER STAR 2",
+            "paket7" : "SUPER STAR 1",
+            "paket8" : "SUPER BESAR 2",
+            "paket9" : "SUPER BESAR 1",
+            "paket10" : "SIGNATURE BOX",
+            "paket11" : "O.R. BURGER COMBO",
+            "paket12" : "SUPER STAR 3"
+
+        }
+    },
+    {
+        "kategori" : "Praktis",
+        "tersedia" : true,
+        "varian" : [
+            "spacy",
+            "original"
+        ],
+        "paket" : {
+            "paket1" : "BBQ BENTO",
+            "paket2" : "KRISPY BURGER",
+            "paket3" : "TWISTY",
+            "paket4" : "ORIENTAL BENTO",
+            "paket5" : "O.R. BURGER",
+            "paket6" : "FISH BENTO",
+            "paket7" : "BLACKPEPPER BENTO",
+            "paket8" : "FISH FILLET"
+
+        }
+    }
+]
